@@ -5,7 +5,7 @@ A used car/car selling resource for Aicore
 
 
 ## Dependencies
-- [aicore](https://github.com/0error-scripts/aicore)
+- [aicore](https://github.com/aicore-fivem/aicore)
 - [oxmysql](https://github.com/CommunityOx/oxmysql)
 - [ox_lib](https://github.com/CommunityOx/ox_lib)
 - [ox_target](https://github.com/CommunityOx/ox_target)
